@@ -2,6 +2,7 @@
 
  **- Primeiro Passo**
 Criar uma conta no Microsoft 365
+>Eu já tinha uma conta Microsoft 365.
 #
  **- Segundo Passo**
 Criar o ambiente no **Power Plataform**.
